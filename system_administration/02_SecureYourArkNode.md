@@ -112,7 +112,7 @@ Find all the references that specify port = SSH (typically in the SSH header sec
 sudo nano /etc/fail2ban/jail.local
 ```
 
-![fail2ban_config](https://github.com/ArkEcosystem/docs/blob/master/assets/img/system_administration/fail2ban.png)
+![fail2ban_config](https://github.com/ArkEcosystem/docs/blob/master/assets/img/fail2ban.png)
 
 #### Save your config file
 Press `CTRL+X` to exit the file, `Y` to save the file and then `Enter` to write to the file and return to the command line.
